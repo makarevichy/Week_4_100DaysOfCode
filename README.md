@@ -1,5 +1,16 @@
 # Week 4
 
+### Day 24: June 12, Tuesday.
+
+**Today's Progress**: tidytext, ggplot.
+
+**Thoughts** 
+- Worked today with a wonderful package tidytext
+- Also visualized the results using ggplot2 package
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_4_100DaysOfCode/blob/master/weekday/Day_24_tidytext.R)
+
 ### Day 23: June 11, Monday.
 
 **Today's Progress**: plotly, shinyApp.
