@@ -1,5 +1,15 @@
 # Week 4
 
+### Day 25: June 13, Wednesday.
+
+**Today's Progress**: Sentiments, ggplot.
+
+**Thoughts** 
+- Today I worked with sentiments analysis and building on its basis of the graphs in ggplot2
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_4_100DaysOfCode/blob/master/weekday/Day_25_sentiments.R)
+
 ### Day 24: June 12, Tuesday.
 
 **Today's Progress**: tidytext, ggplot.
