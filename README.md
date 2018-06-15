@@ -1,5 +1,17 @@
 # Week 4
 
+### Days 26-27: June 14-15, Thursday-Friday.
+
+**Today's Progress**: Domain specific language, LaTeX, microbenchmark.
+
+**Thoughts** 
+- I continued to study domain specific languages in R
+- I learned more about the performance characteristics of the R-language and how they affect real code
+- I measured the performance of a piece of code in R
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_4_100DaysOfCode/blob/master/weekday/Day_26_27_microbenchmark.R)
+
 ### Day 25: June 13, Wednesday.
 
 **Today's Progress**: Sentiments, ggplot.
