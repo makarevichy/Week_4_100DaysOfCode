@@ -1,5 +1,16 @@
 # Week 4
 
+### Days 28: June 16, Saturday.
+
+**Today's Progress**: Profiling, Provfis package.
+
+**Thoughts** 
+- Got acquainted with the [profviz](https://rstudio.github.io/profvis/index.html) package
+- Searched for bottlenecks in R code
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_4_100DaysOfCode/blob/master/weekday/Day_28_profiling.R)
+
 ### Days 26-27: June 14-15, Thursday-Friday.
 
 **Today's Progress**: Domain specific language, LaTeX, microbenchmark.
